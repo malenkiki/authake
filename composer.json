@@ -1,0 +1,37 @@
+{
+    "name": "malenki/authake",
+    "description": "The most easy to use authorization plugin for CakePHP is finally out with tremendous changes.",
+    "type": "cakephp-plugin",
+    "keywords": ["cakephp", "plugin", "authorization"],
+    "homepage": "https://github.com/malenkiki/authake",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Jérôme Combaz",
+            "email": "jakecake@velay.greta.fr",
+            "role": "Author"
+        },
+        {
+            "name": "Midori Koçak",
+            "homepage": "http://www.mtkocak.net/",
+            "role": "Contributor"
+        },
+        {
+            "name": "Michel Petit",
+            "homepage": "http://github.com/malenkiki/",
+            "role": "Contributor"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/mtkocak/authake/issues",
+        "source": "https://github.com/mtkocak/authake"
+    },
+    "require": {
+        "php": ">=5.3.0",
+        "composer/installers": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    }
+}
+
